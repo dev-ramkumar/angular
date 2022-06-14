@@ -1,0 +1,36 @@
+.aaa {
+    padding: 20px;
+}
+.aaa .search {
+    display: block;
+    margin: auto;
+    padding: 5px;
+    width: 100%;
+
+}
+.aaa .results ul {
+    list-style-type: none;
+    width: 100%;
+    padding-left: 0px;
+}
+
+.aaa .results ul li {
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: rgb(216, 212, 212);
+}
+
+.bbb {
+    padding: 20px;
+
+}
+.bbb img {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+
+
+

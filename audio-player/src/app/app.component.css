@@ -1,3 +1,6 @@
+main {
+    display: inline-flex;
+}
 .aaa {
     padding: 20px;
 }

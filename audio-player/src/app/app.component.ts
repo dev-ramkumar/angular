@@ -70,7 +70,7 @@ export class AppComponent {
     fetch('https://ramkumarg1605.000webhostapp.com/telliant/search.php?search=' + e)
       .then(response => response.json())
       .then(data => {
-        console.log(data)
+        
         this.songs = data
       });
 
